@@ -40,14 +40,6 @@ function App() {
                 </div>
             </nav>
         </header>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={teAdoptoLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
     </>
   )
 }
